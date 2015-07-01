@@ -20,7 +20,8 @@ public class IEBrowser {
 		    true);
 		WebDriver driver = new InternetExplorerDriver(caps);
 		
-			
+		
+	
 	}
 
 
